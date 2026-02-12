@@ -84,3 +84,24 @@ class jaggedstaircase{
         }
     }
 }
+
+class demo3{
+    public static void main(String[] args){
+        String[] playlists=new String[3];
+        playlists[0]="Song 1";
+        System.out.println(playlists[0]);
+        playlists[1]="Song 2";
+        System.out.println(playlists[1]);
+        playlists[2]="Song 3";
+        System.out.println(playlists[2]);
+    }
+}
+
+
+class maxarray{
+    public static void main(String[] args){
+
+    }
+    
+}
+
